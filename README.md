@@ -1,10 +1,10 @@
 # Ol-Chiki-font
-Badomtolia font was designed as part of my gradutation project at National Institute of Design, Ahmedabad. The font is designed to write Santhali Language in Ol Chiki/Ol Cemet script. This project was sponsored by theIdeaWorks design agency in New Delhi India. As agreed with my sponsor the designed font is free to use.
+Badomtolia font was designed as part of my gradutation project at National Institute of Design, Ahmedabad. The font is designed to write Santhali Language in Ol Chiki/Ol Cemet script. This project was sponsored by theIdeaWorks design agency in New Delhi India. As agreed with my sponsor the designed font is free to use and with standard MIT license without modification.
 
 Quick reference links
 
 Graduation Project (NID)
-Font project was carried out in 4 months in 2009 as part of my final project. During the project I documented my work progress in this blog here: http://prashantcoakley.blogspot.com/
+Font project was carried out in 4 months in 2009 as part of my final project. During the project I documented my work in this blog here: http://prashantcoakley.blogspot.com/
 
 Final project documentation is here:
 https://drive.google.com/open?id=17Htd2Ep79uKz-iwrITZlExLgT4UTzy0O
