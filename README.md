@@ -1,5 +1,5 @@
 # Ol-Chiki-font
-Badomtolia font was designed as part of my gradutation project at National Institute of Design, Ahmedbad. The font is designed to write Santhali Language in Ol Chiki/Ol Cemet script. This project was sponsored by theIdeaWorks design agency in New Delhi India. 
+Badomtolia font was designed as part of my gradutation project at National Institute of Design, Ahmedabad. The font is designed to write Santhali Language in Ol Chiki/Ol Cemet script. This project was sponsored by theIdeaWorks design agency in New Delhi India. As agreed with my sponsor the designed font is free to use.
 
 Quick reference links
 
