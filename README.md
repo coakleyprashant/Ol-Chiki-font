@@ -7,7 +7,7 @@ Graduation Project (NID)
 Font project was carried out in 4 months in 2009 as part of my final project. During the project I documented my work in this blog here: http://prashantcoakley.blogspot.com/
 
 Final project documentation is here:
-https://drive.google.com/open?id=17Htd2Ep79uKz-iwrITZlExLgT4UTzy0O
+https://drive.google.com/file/d/1xpsMp88cqrdd05PsC_EOakGt7zaSu8EC/view?usp=sharing
 
 National Institute of Design 
 http://www.nid.edu/
